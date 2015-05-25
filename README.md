@@ -2,7 +2,7 @@ workFlow
 ========
 
 我的blog的自动化工作流程  
-[![Build Status](https://travis-ci.org/coolriver/workFlow.svg?branch=master)](https://travis-ci.org/coolriver/workFlow)  
+[![Build Status](https://travis-ci.org/riverGroup/workFlow.svg)](https://travis-ci.org/riverGroup/workFlow)   
 安装：
 >npm install  bower -g  
 npm install  
